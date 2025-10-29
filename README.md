@@ -1,4 +1,4 @@
-# EmBomber 
+# EmBomber-2 
 
 [![python](https://img.shields.io/badge/Python-3.x-green.svg?style=flat-square)](https://www.python.org/downloads/) ![version](https://img.shields.io/badge/Build-Final-blue.svg) ![license](https://img.shields.io/badge/License-GPL_3-orange.svg?style=flat-square)
 
@@ -44,8 +44,8 @@ pip3 install cryptography
 
 1. clone the repo:
 ```bash
-git clone https://github.com/angrycoder12/EmBomber.git
-cd EmBomber
+git clone https://github.com/angrycoder12/EmBomber-2.git
+cd EmBomber-2
 ```
 
 2. install the dependencies (choose your distro's method above)
@@ -54,7 +54,7 @@ cd EmBomber
 
 Run the script:
 ```bash
-python3 EmBomber.py
+python3 EmBomber-2.py
 ```
 
 ### Features Guide
